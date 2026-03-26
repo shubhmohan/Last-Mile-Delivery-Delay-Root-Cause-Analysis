@@ -274,8 +274,7 @@ jupyter>=1.0.0
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:0D9488,100:0F2040&height=120&section=footer" width="100%"/>
 
-**Made with 🧠 and 📊 by [Shubh Mohan](https://github.com/shubhmohan)**
+**Made by [Shubh Mohan](https://github.com/shubhmohan)**
 
-*India needs more data analysts who understand its logistics challenges.*
 
 </div>
