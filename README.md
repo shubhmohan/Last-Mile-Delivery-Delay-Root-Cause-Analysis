@@ -276,5 +276,4 @@ jupyter>=1.0.0
 
 **Made by [Shubh Mohan](https://github.com/shubhmohan)**
 
-
 </div>
