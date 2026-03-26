@@ -60,7 +60,7 @@ st.markdown("""
 # ══════════════════════════════════════════════
 @st.cache_data
 def load_data():
-    df=pd.read_csv("C:/Users/gupta\Documents/GitHub/Last-Mile-Delivery-Delay-Root-Cause-Analysis/data/processed/final_deliveries_clean.csv")
+    df=pd.read_csv("data/processed/final_deliveries_clean.csv")
 
     # Clean text columns
     df['Weatherconditions']    = df['Weatherconditions'].str.replace('conditions ', '', regex=False).str.strip()
